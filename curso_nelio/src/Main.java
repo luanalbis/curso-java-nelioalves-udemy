@@ -1,5 +1,4 @@
 import java.util.Locale;
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -33,6 +32,8 @@ public class Main {
 		float converter = idade;
 		String texto = Integer.toString(idade);
 		System.out.println(converter + " " + texto);
+		
+		
 		
 	
 		
