@@ -20,7 +20,7 @@ public class Main {
 		
 		System.out.printf("%.2f%n", flutuante); // mostra apenas 2 casas flutuantes, com virgula, usamos o LOCALE para definir como USA, e o numero flutuante ter pontos
 		
-		System.out.printf("Meu nome é %s do sexo %s, minha idade é %d minha namorada tem %.2f na carteira %n", nomes, sexo, idade, flutuante);
+		System.out.printf("Meu nome é %i do sexo %s, minha idade é %d minha namorada tem %.2f na carteira %n", nomes, sexo, idade, flutuante);
 		
 		
 		if (idade > 0) {
@@ -35,10 +35,7 @@ public class Main {
 
 		System.out.println("meu nome é Luan");
 		
-		
-		
-	
-		
+			
 		
 	}
 
